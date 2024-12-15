@@ -1,5 +1,6 @@
 main.cards{
 	display:flex;
+	flex-wrap:wrap;
 }
 img{
 	margin:10px;
